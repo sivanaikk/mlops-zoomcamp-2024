@@ -1,0 +1,15 @@
+artifact_uri: file:///home/siva/Documents/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/1fff6ba2e1a14f79b933be2e3195ea5d/artifacts
+end_time: 1717407425719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fff6ba2e1a14f79b933be2e3195ea5d
+run_name: trusting-bat-254
+run_uuid: 1fff6ba2e1a14f79b933be2e3195ea5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717407420210
+status: 4
+tags: []
+user_id: siva

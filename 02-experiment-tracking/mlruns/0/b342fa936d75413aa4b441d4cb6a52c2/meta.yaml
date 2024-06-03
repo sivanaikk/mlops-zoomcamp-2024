@@ -1,0 +1,15 @@
+artifact_uri: file:///home/siva/Documents/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/b342fa936d75413aa4b441d4cb6a52c2/artifacts
+end_time: 1717408667442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b342fa936d75413aa4b441d4cb6a52c2
+run_name: sincere-pig-242
+run_uuid: b342fa936d75413aa4b441d4cb6a52c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717408654754
+status: 3
+tags: []
+user_id: siva

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/siva/Documents/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/c0c644932664493abb4de235f855e248/artifacts
+end_time: 1717407341908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0c644932664493abb4de235f855e248
+run_name: fearless-steed-850
+run_uuid: c0c644932664493abb4de235f855e248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717407274817
+status: 3
+tags: []
+user_id: siva
